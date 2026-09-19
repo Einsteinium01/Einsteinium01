@@ -2,3 +2,7 @@
 
 ## My Contribution 
 ![Snake animation](https://raw.githubusercontent.com/Einsteinium01/Einsteinium01/output/github-contribution-grid-snake.svg)
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Einsteinium01/Einsteinium01/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake">
+</p>
