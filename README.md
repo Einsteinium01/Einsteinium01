@@ -11,6 +11,7 @@
   <img
     src="profile-3d-contrib/profile-night-rainbow.svg"
     alt="3D contribution graph"
-    width="500"
+    height="450"
+    width="850"
   />
 </p>
