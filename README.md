@@ -8,7 +8,9 @@
 ## My Contribution
 
 <p align="center">
-  <picture>
-    ![](profile-3d-contrib/profile-night-green.svg)
-  </picture>
+  <img
+    src="profile-3d-contrib/profile-night-green.svg"
+    alt="3D contribution graph"
+    width="850"
+  />
 </p>
