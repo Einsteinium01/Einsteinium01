@@ -17,7 +17,7 @@
 -->
 <p align="center">
   <img
-    src="https://raw.githubusercontent.com/Einsteinium01/Einsteinium01/output/github-contribution-grid-snake.svg"
+    src="https://raw.githubusercontent.com/Einsteinium01/Einsteinium01/output/github-contribution-grid-snake-dark.svg"
     alt="GitHub contribution snake"
     width="850"
   />
