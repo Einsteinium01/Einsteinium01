@@ -6,7 +6,7 @@
 />
 
 ## My Contribution
-<!--
+
 <p align="center">
   <img
     src="profile-3d-contrib/profile-night-rainbow.svg"
@@ -14,7 +14,8 @@
     width="850"
   />
 </p>
--->
+
+<!--
 <p align="center">
   <img
     src="https://raw.githubusercontent.com/Einsteinium01/Einsteinium01/output/github-contribution-grid-snake-dark.svg"
